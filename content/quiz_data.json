@@ -1,0 +1,831 @@
+[
+    {
+    "question": "Ein Business-Case dient dazu,...",
+    "options": [
+        "den Projektstrukturplan zu erstellen.",
+        "gezieltes Stakeholdermanagement durchzuführen.",
+        "festzustellen, ob, wann und in welchem Umfang ein Projekt einen positiven Ergebnisbeitrag für ein Unternehmen leistet.",
+        "den Projektleiter anhand von Kennzahlen zu messen."
+    ],
+    "answer": "festzustellen, ob, wann und in welchem Umfang ein Projekt einen positiven Ergebnisbeitrag für ein Unternehmen leistet."
+    },
+    {
+    "question": "Was werden Sie nicht in einem unternehmensspezifischen Projektmanagementhandbuch finden?",
+    "options": [
+        "Regelung des Anwendungsbereichs",
+        "Hierarchie der Berichtsstufen",
+        "Beschreibung der Eskalationsstufen",
+        "Berechneter Terminplan ihres Projekts"
+    ],
+    "answer": "Berechneter Terminplan ihres Projekts"
+    },
+    {
+    "question": "Die umfassende Definition eines Projekts (nach DIN) ist?",
+    "options": [
+        "Eine umfangreiche, zeitlich im Vorhinein begrenzte Aufgabe.",
+        "Ein Vorhaben, das im Wesentlichen durch Einmaligkeit der Bedingungen in ihrer Gesamtheit gekennzeichnet ist.",
+        "Ein zeitlich befristetes Vorhaben, um ein einmaliges Produkt, eine einmalige Dienstleistung oder ein einmaliges Ergebnis zu erstellen.",
+        "Eine Aufgabe, die durch ein Team zu erledigen ist."
+    ],
+    "answer": "Ein Vorhaben, das im Wesentlichen durch Einmaligkeit der Bedingungen in ihrer Gesamtheit gekennzeichnet ist."
+    },
+    {
+    "question": "Welche Merkmale kennzeichnen eine Matrix-Projektorganisation?",
+    "options": [
+        "Die Mitarbeiter der Linienorganisation haben keinen Einfluss auf den Projekterfolg.",
+        "In der Matrix-Projektorganisation legt der Projektleiter fest, welche Mitarbeiter an der Lösung der fachlichen Probleme im Projekt arbeiten.",
+        "Projektbezogene Informations- und Entscheidungswege werden im Vergleich zur Linienorganisation verlängert.",
+        "Die Matrix-Projektorganisation ermöglicht einen einfachen fachlichen Erfahrungsaustausch zwischen den Mitarbeitern der jeweiligen Abteilung."
+    ],
+    "answer": "Die Matrix-Projektorganisation ermöglicht einen einfachen fachlichen Erfahrungsaustausch zwischen den Mitarbeitern der jeweiligen Abteilung."
+    },
+    {
+    "question": "Der Bau eines neuen Werks zur Produktion und Montage von Fahrzeugen in Indien ist am ehesten ein …",
+    "options": [
+        "Organisationsprojekt",
+        "Investitionsprojekt",
+        "F&E-Projekt",
+        "Rettungsprojekt"
+    ],
+    "answer": "Investitionsprojekt"
+    },
+    {
+    "question": "Welches ist eine der wesentlichen Aufgaben des Lenkungsausschusses?",
+    "options": [
+        "Erstellen des Qualitätsmanagementplanes",
+        "Planung der Arbeitspakete",
+        "Abstimmung der Projektziele mit den Unternehmenszielen und Leitlinien",
+        "Kontrolle der Unternehmensführung"
+    ],
+    "answer": "Abstimmung der Projektziele mit den Unternehmenszielen und Leitlinien"
+    },
+    {
+    "question": "Wie nennt man das Verfahren, einen Sachverhalt oder Zustand zu untersuchen, der zu einem Unfall führen kann oder Schäden an Personen oder Sachen zur Folge haben kann?",
+    "options": [
+        "Stakeholderanalyse",
+        "Kostenanalyse",
+        "Umfeldanalyse",
+        "Gefährdungsanalyse"
+    ],
+    "answer": "Gefährdungsanalyse"
+    },
+    {
+    "question": "Wie heißt ein regelmäßig stattfindender Lessons learned Workshop in Scrum-Projekten, an dem das Entwicklerteam und der Scrum Master teilnehmen?",
+    "options": [
+        "Sprint",
+        "Retrospektive",
+        "Timeboxing",
+        "Referenz"
+    ],
+    "answer": "Retrospektive"
+    },
+
+    {
+    "question": "Was ist kein Bestandteil einer Umfeldanalyse?",
+    "options": [
+        "wirtschaftliche Faktoren",
+        "finanzielle Faktoren",
+        "Zielkriterien des Projekts",
+        "rechtliche Faktoren"
+    ],
+    "answer": "Zielkriterien des Projekts"
+    },
+    {
+    "question": "Was ist kein Artefakt nach dem Modell nach Edgar Schein?",
+    "options": [
+        "Architektur und Ausgestaltung des Firmengebäudes",
+        "Schriftlich fixierte Leitlinien, Strategien und Ziele der Unternehmensleitung",
+        "Kleidung der Mitarbeiter",
+        "Rituale in Besprechungen"
+    ],
+    "answer": "Schriftlich fixierte Leitlinien, Strategien und Ziele der Unternehmensleitung"
+    },
+    {
+    "question": "Vorbehaltloser Glaube, dass man sich auf jemanden oder etwas in hohem Maße verlassen kann, nennt man …?",
+    "options": [
+        "Vertrauen",
+        "Verlässlichkeit",
+        "Loyalität",
+        "Integrität"
+    ],
+    "answer": "Vertrauen"
+    },
+    {
+        "question": "Welche Aussage ist falsch?",
+        "options": [
+            "Zuhören ist nicht mit dem Hörvermögen verbunden",
+            "Die Fähigkeit zuzuhören ist unabhängig vom Bildungsniveau",
+            "Zuhören ist eine Sache der Intelligenz",
+            "Zuhören erfordert Empathie, Ausdauer und Anstrengung"
+        ],
+        "answer": "Zuhören ist eine Sache der Intelligenz"
+    },
+    {
+    "question": "Was ist kein Bestandteil der \"Management by\" Konzepte?",
+    "options": [
+        "Prozessentwicklung",
+        "Aufgabenzuordnung",
+        "Handlungssteuerung",
+        "Partizipation"
+    ],
+    "answer": "Prozessentwicklung"
+    },
+    {
+    "question": "Welche Eigenschaften des Führenden fördern gute Stimmung im Team?",
+    "options": [
+        "penibel sein",
+        "offen sein",
+        "schweigsam sein",
+        "rechthaberisch sein"
+    ],
+    "answer": "offen sein"
+    },
+    {
+    "question": "Was ist ein Lessons Learned Workshop?",
+    "options": [
+        "Ein Workshop zu einer firmeninternen Schulung.",
+        "Eine Methode, Risiken einzuschätzen.",
+        "Eine firmeninterne Weiterbildung.",
+        "Eine Methode, Projektlernen in einer Organisation zu etablieren und aufrecht zu erhalten."
+    ],
+    "answer": "Eine Methode, Projektlernen in einer Organisation zu etablieren und aufrecht zu erhalten."
+    },
+    {
+    "question": "Wie wird der Begriff \"Verhandlung\" nicht definiert?",
+    "options": [
+        "Überwinden oder Verringern von Meinungsverschiedenheiten",
+        "Klärung von kontroversen Sachverhalten",
+        "Den Verhandlungspartner zur Annahme der eigenen Lösung zu erpressen",
+        "Klärung gegensätzlicher Interessen"
+    ],
+    "answer": "Den Verhandlungspartner zur Annahme der eigenen Lösung zu erpressen"
+    },
+    {
+    "question": "Die Netzplantechnik ist ein wichtiges Instrument zur terminlichen Planung und Steuerung von Projekten. Welche der folgenden Aussagen treffen auf die Netzplantechnik zu?",
+    "options": [
+        "In einem Netzplan können keine Meilensteintermine abgebildet werden.",
+        "Zwei Arbeitspakete können gleichzeitig bearbeitet werden, auch wenn der früheste Anfang des einen, FA (1), und der früheste Anfang des zweiten, FA (2), zeitlich nicht zusammenfallen.",
+        "Die Netzplantechnik ist ein Optimierungsverfahren.",
+        "Die Bearbeitungsdauer eines Arbeitspakets kann im Netzplan nicht ersichtlich gemacht werden."
+    ],
+    "answer": "Zwei Arbeitspakete können gleichzeitig bearbeitet werden, auch wenn der früheste Anfang des einen, FA (1), und der früheste Anfang des zweiten, FA (2), zeitlich nicht zusammenfallen."
+    },
+    {
+    "question": "Manager der Stammorganisation haben am meisten Einfluss gegenüber einem Projektleiter in einer …",
+    "options": [
+        "Autonomen Projektorganisation",
+        "Matrixprojektorganisation",
+        "Virtuellen Organisation",
+        "Stabs/Einfluss-Projektorganisation"
+    ],
+    "answer": "Stabs/Einfluss-Projektorganisation"
+    },
+    {
+    "question": "Welche Aufgabe gehört zum kontinuierlichen Verbesserungsprozess?",
+    "options": [
+        "Fortlaufendes Bemühen in einer Organisation, um die Gesetze und Richtlinien umzusetzen.",
+        "Fortlaufendes Bemühen in einer Organisation, um sämtliche Dokumente abzulegen.",
+        "Fortlaufendes Bemühen in einer Organisation, um sämtliche Sozialziele zu überprüfen.",
+        "Fortlaufendes Bemühen in einer Organisation, um die einzelnen Schritte ihrer Prozesse immer wieder zu verbessern."
+    ],
+    "answer": "Fortlaufendes Bemühen in einer Organisation, um die einzelnen Schritte ihrer Prozesse immer wieder zu verbessern."
+    },
+    {
+    "question": "Wie wird eine grafische Darstellung der anfallenden Projektkosten je Zeiteinheit t (je gleichbleibende Periode) bezeichnet?",
+    "options": [
+        "Kostenganglinie",
+        "kumulierte Kostenlinie",
+        "Cash-Flow-Diagramm",
+        "Kostenperformance-Chart"
+    ],
+    "answer": "Kostenganglinie"
+    },
+    {
+    "question": "Ein Business-Case dient dazu…",
+    "options": [
+        "den Projektstrukturplan zu erstellen",
+        "gezieltes Stakeholdermanagement durchzuführen",
+        "festzustellen, ob, wann und in welchem Umfang ein Projekt einen positiven Ergebnisbeitrag für ein Unternehmen leistet",
+        "den Projektleiter anhand von Kennzahlen zu messen"
+    ],
+    "answer": "festzustellen, ob, wann und in welchem Umfang ein Projekt einen positiven Ergebnisbeitrag für ein Unternehmen leistet"
+    },
+    {
+    "question": "Was werden Sie nicht in einem unternehmensspezifischen Projektmanagementhandbuch finden?",
+    "options": [
+        "Regelung des Anwendungsbereichs",
+        "Hierarchie der Berichtsstufen",
+        "Beschreibung der Eskalationsstufen",
+        "Berechneter Terminplan ihres Projekts"
+    ],
+    "answer": "Berechneter Terminplan ihres Projekts"
+    },
+    {
+    "question": "Die umfassende Definition eines Projekts (nach DIN) ist?",
+    "options": [
+        "Eine umfangreiche, zeitlich im Vorhinein begrenzte Aufgabe.",
+        "Ein Vorhaben, das im Wesentlichen durch Einmaligkeit der Bedingungen in ihrer Gesamtheit gekennzeichnet ist.",
+        "Ein zeitlich befristetes Vorhaben, um ein einmaliges Produkt, eine einmalige Dienstleistung"
+    ],
+    "answer": "Ein Vorhaben, das im Wesentlichen durch Einmaligkeit der Bedingungen in ihrer Gesamtheit gekennzeichnet ist."
+    },
+    {
+    "question": "Der Bau eines neuen Werks zur Produktion und Montage von Fahrzeugen in Indien ist am ehesten ein …",
+    "options": [
+        "Organisationsprojekt",
+        "Investitionsprojekt",
+        "F&E-Projekt",
+        "Rettungsprojekt"
+    ],
+    "answer": "Investitionsprojekt"
+    },
+    {
+    "question": "Manager der Stammorganisation haben am meisten Einfluss gegenüber einem Projektleiter in einer …",
+    "options": [
+        "Autonomen Projektorganisation",
+        "Matrixprojektorganisation",
+        "Virtuellen Organisation",
+        "Stabs/Einfluss-Projektorganisation"
+    ],
+    "answer": "Stabs/Einfluss-Projektorganisation"
+    },
+    {
+    "question": "Welches ist eine der wesentlichen Aufgaben des Lenkungsausschusses?",
+    "options": [
+        "Erstellen des Qualitätsmanagementplanes",
+        "Planung der Arbeitspakete",
+        "Abstimmung der Projektziele mit den Unternehmenszielen und Leitlinien",
+        "Kontrolle der Unternehmensführung"
+    ],
+    "answer": "Abstimmung der Projektziele mit den Unternehmenszielen und Leitlinien"
+    },
+    {
+    "question": "Wie nennt man das Verfahren, einen Sachverhalt oder Zustand zu untersuchen, der zu einem Unfall führen kann oder Schäden an Personen oder Sachen zur Folge haben kann?",
+    "options": [
+        "Stakeholderanalyse",
+        "Kostenanalyse",
+        "Umfeldanalyse",
+        "Gefährdungsanalyse"
+    ],
+    "answer": "Gefährdungsanalyse"
+    },
+    {
+    "question": "Wie heißt ein regelmäßig stattfindender Lessons learned Workshop in Scrum-Projekten, an dem das Entwicklerteam und der Scrum Master teilnehmen?",
+    "options": [
+        "Sprint",
+        "Retrospektive",
+        "Timeboxing",
+        "Referenz"
+    ],
+    "answer": "Retrospektive"
+    },
+    {
+    "question": "Was ist kein Bestandteil einer Umfeldanalyse?",
+    "options": [
+        "wirtschaftliche Faktoren",
+        "finanzielle Faktoren",
+        "Zielkriterien des Projekts",
+        "rechtliche Faktoren"
+    ],
+    "answer": "Zielkriterien des Projekts"
+    },
+    {
+    "question": "Was ist kein Artefakt nach dem Modell nach Edgar Schein?",
+    "options": [
+        "Architektur und Ausgestaltung des Firmengebäudes",
+        "Schriftlich fixierte Leitlinien, Strategien und Ziele der Unternehmensleitung",
+        "Kleidung der Mitarbeiter",
+        "Rituale in Besprechungen"
+    ],
+    "answer": "Schriftlich fixierte Leitlinien, Strategien und Ziele der Unternehmensleitung"
+    },
+    {
+    "question": "Vorbehaltloser Glaube, dass man sich auf jemanden oder etwas in hohem Maße verlassen kann, nennt man …?",
+    "options": [
+        "Vertrauen",
+        "Verlässlichkeit",
+        "Loyalität",
+        "Integrität"
+    ],
+    "answer": "Vertrauen"
+    },
+    {
+    "question": "Welche Aussage ist falsch?",
+    "options": [
+        "Zuhören ist nicht mit dem Hörvermögen verbunden",
+        "Die Fähigkeit zuzuhören ist unabhängig vom Bildungsniveau",
+        "Zuhören ist eine Sache der Intelligenz",
+        "Zuhören erfordert Empathie, Ausdauer und Anstrengung"
+    ],
+    "answer": "Zuhören ist eine Sache der Intelligenz"
+    },
+    {
+    "question": "Was ist kein Bestandteil der \"Management by\" Konzepte?",
+    "options": [
+        "Prozessentwicklung",
+        "Aufgabenzuordnung",
+        "Handlungssteuerung",
+        "Partizipation"
+    ],
+    "answer": "Prozessentwicklung"
+    },
+    {
+    "question": "Welche Eigenschaften des Führenden fördern gute Stimmung im Team?",
+    "options": [
+        "penibel sein",
+        "offen sein",
+        "schweigsam sein",
+        "rechthaberisch sein"
+    ],
+    "answer": "offen sein"
+    },
+    {
+    "question": "Was ist ein Lessons Learned Workshop?",
+    "options": [
+        "Ein Workshop zu einer firmeninternen Schulung",
+        "Eine Methode, Risiken einzuschätzen",
+        "Eine firmeninterne Weiterbildung",
+        "Eine Methode, Projektlernen in einer Organisation zu etablieren und aufrecht zu erhalten"
+    ],
+    "answer": "Eine Methode, Projektlernen in einer Organisation zu etablieren und aufrecht zu erhalten."
+    },
+    {
+    "question": "Wie wird der Begriff \"Verhandlung\" nicht definiert?",
+    "options": [
+        "Überwinden oder Verringern von Meinungsverschiedenheiten",
+        "Klärung von kontroversen Sachverhalten",
+        "Den Verhandlungspartner zur Annahme der eigenen Lösung zu erpressen",
+        "Klärung gegensätzlicher Interessen"
+    ],
+    "answer": "Den Verhandlungspartner zur Annahme der eigenen Lösung zu erpressen"
+    },
+    {
+    "question": "Die Netzplantechnik ist ein wichtiges Instrument zur terminlichen Planung und Steuerung von Projekten. Welche der folgenden Aussagen treffen auf die Netzplantechnik zu?",
+    "options": [
+        "In einem Netzplan können keine Meilensteintermine abgebildet werden.",
+        "Zwei Arbeitspakete können gleichzeitig bearbeitet werden, auch wenn der früheste Anfang des einen, FA (1), und der früheste Anfang des zweiten, FA (2), zeitlich nicht zusammenfallen.",
+        "Die Netzplantechnik ist ein Optimierungsverfahren.",
+        "Die Bearbeitungsdauer eines Arbeitspakets kann im Netzplan nicht ersichtlich gemacht werden."
+    ],
+    "answer": "Zwei Arbeitspakete können gleichzeitig bearbeitet werden, auch wenn der früheste Anfang des einen, FA (1), und der früheste Anfang des zweiten, FA (2), zeitlich nicht zusammenfallen."
+    },
+    {
+    "question": "Welche Aufgabe gehört zum kontinuierlichen Verbesserungsprozess?",
+    "options": [
+        "Fortlaufendes Bemühen in einer Organisation, um die Gesetze und Richtlinien umzusetzen.",
+        "Fortlaufendes Bemühen in einer Organisation, um sämtliche Dokumente abzulegen.",
+        "Fortlaufendes Bemühen in einer Organisation, um sämtliche Sozialziele zu überprüfen.",
+        "Fortlaufendes Bemühen in einer Organisation, um die einzelnen Schritte ihrer Prozesse immer wieder zu verbessern."
+    ],
+    "answer": "Fortlaufendes Bemühen in einer Organisation, um die einzelnen Schritte ihrer Prozesse immer wieder zu verbessern."
+    },
+    {
+    "question": "Wie wird im Projektmanagement die vom Auftraggeber festgelegte Gesamtheit der Forderungen an die Lieferungen und Leistungen eines Auftragnehmers innerhalb eines (Projekt-)Auftrags bezeichnet?",
+    "options": [
+        "Projektvertrag",
+        "Lastenheft",
+        "Nachforderungsliste"
+    ],
+    "answer": "Lastenheft"
+    },
+    {
+    "question": "Wie wird eine grafische Darstellung der anfallenden Projektkosten je Zeiteinheit t (je gleichbleibende Periode) bezeichnet?",
+    "options": [
+        "Kostenganglinie",
+        "kumulierte Kostenlinie",
+        "Cash-Flow-Diagramm",
+        "Kostenperformance-Chart"
+    ],
+    "answer": "Kostenganglinie"
+    },
+    {
+    "question": "Welches ist keine Ressourcenart?",
+    "options": [
+        "Mensch",
+        "Spezifikation",
+        "Maschine",
+        "Finanzmittel"
+    ],
+    "answer": "Spezifikation"
+    },
+    {
+    "question": "Sach-, Personal- und Finanzmittel sind notwendige … in einem Projekt?",
+    "options": [
+        "Ressourcen",
+        "Materialien",
+        "Kostenfaktoren",
+        "Leistungsfaktoren"
+    ],
+    "answer": "Ressourcen"
+    },
+    {
+    "question": "Was gehört nicht zu den Phasen der organisationalen Veränderung nach Edgar Schein?",
+    "options": [
+        "cooking",
+        "freezing",
+        "moving",
+        "unfreezing"
+    ],
+    "answer": "cooking"
+    },
+    {
+    "question": "Aus vielen Studien ist ersichtlich, dass in der Regel der Faktor Mensch über den Erfolg des Projektes bestimmt. Deshalb ist für den Projektleiter wichtig, dass ..",
+    "options": [
+        ".. er vom Management unterstützt wird",
+        ".. er alle Hilfsmittel nutzt",
+        ".. er sich mit MS-Projekt (Tool zur Projektplanung) gut auskennt",
+        ".. er nicht allzu viel Verantwortung hat"
+    ],
+    "answer": ".. er vom Management unterstützt wird"
+    },
+    {
+    "question": "Was bedeutet ein negativ eingestellter Stakeholder (Interessierte Partei) für das Projekt?",
+    "options": [
+        "Meistens ein Risiko für das Projekt",
+        "Meistens eine Chance für das Projekt",
+        "Ist ohne Bedeutung",
+        "Kann grundsätzlich vernachlässigt werden"
+    ],
+    "answer": "Meistens ein Risiko für das Projekt"
+    },
+    {
+    "question": "Welche Vorteile ergeben sich für den Projektleiter, wenn er mit den Anforderungen gleichzeitig die dazu gehörigen Abnahmekriterien definiert?",
+    "options": [
+        "Es sind nur wenig Änderungen zu erwarten",
+        "Die Anzahl der Anforderungen kann klein gehalten werden",
+        "Die Anforderung kann nach Ihrer Wichtigkeit eingestuft werden",
+        "Abnahmekriterien stellen die Qualität von Anforderungen sicher"
+    ],
+    "answer": "Abnahmekriterien stellen die Qualität von Anforderungen sicher"
+    },
+    {
+    "question": "Risikomanagement hat zwei bestimmende Faktoren im Focus, nämlich:",
+    "options": [
+        "Qualität und Kosten",
+        "Planung und Laufzeit des Projekts",
+        "Controlling und Steuerung",
+        "Wahrscheinlichkeit und Tragweite"
+    ],
+    "answer": "Wahrscheinlichkeit und Tragweite"
+    },
+    {
+    "question": "Wie können Fehlerkosten im Projekt minimiert werden?",
+    "options": [
+        "durch gute Projektplanung",
+        "durch planmässige Durchführung von Sicherungsmassnahmen",
+        "durch häufige Projektmeetings",
+        "durch gute Kommunikation"
+    ],
+    "answer": "durch planmässige Durchführung von Sicherungsmassnahmen"
+    },
+    {
+    "question": "In einem Projekt wird entschieden, dass der Projektleiter ausgetauscht wird. Welcher Projektbeteiligte hat diese Kompetenz?",
+    "options": [
+        "Der Controller",
+        "Der Auftraggeber",
+        "Der Projektleiter",
+        "Der Benutzervertreter"
+    ],
+    "answer": "Der Auftraggeber"
+    },
+    {
+    "question": "Die Anforderung an die Teamfähigkeit eines Projektmitarbeiters kann mit mehreren Teilaspekten konkretisiert werden. Jedoch nur drei der Wahlantworten treffen zu. Eine der Wahlantworten ist in der Projektarbeit nicht relevant. Welche?",
+    "options": [
+        "Kommunikationsfähigkeit",
+        "Kooperationsfähigkeit",
+        "Bindungsfähigkeit",
+        "Integrationsfähigkeit"
+    ],
+    "answer": "Bindungsfähigkeit"
+    },
+    {
+    "question": "Im Projekt gibt es völlig unterschiedliche Arten von Problemen. Was ist ein Zielproblem?",
+    "options": [
+        "Die Sachlösung (Produkt) entspricht nicht den Anforderungen",
+        "Das Verhalten einer Person entspricht nicht dem erwarteten Verhalten im Rahmen des Projekts",
+        "Abweichung vom erwarteten Ziel und dem prognostizierten Endziel des Projekts",
+        "Abweichung zwischen den Erwartungen bezüglich der Zusammenarbeit im Team."
+    ],
+    "answer": "Abweichung vom erwarteten Ziel und dem prognostizierten Endziel des Projekts"
+    },
+    {
+    "question": "Für einfache, nicht komplexe Projekte reicht in der Regel der einfache Projektstrukturplan (PSP). Nachfolgend sind vier Aspekte aufgeführt; drei gebräuchliche Aspekte und ein unwesentlicher Aspekt für einen einfachen PSP. Welcher Aspekt ist nicht wichtig?",
+    "options": [
+        "Ortsorientierung",
+        "Objektorientierung",
+        "Aktivitätenorientierung",
+        "Phasenorientierung"
+    ],
+    "answer": "Ortsorientierung"
+    },
+    {
+    "question": "Was ist ein wichtiger Prozessschritt bei der Definition des Leistungsumfangs?",
+    "options": [
+        "Erstellen des Projektbasisplans",
+        "Klärung der Projektgrenzen und des Leistungsinhalts",
+        "Klärung des Projektbudgets",
+        "Analyse der notwendigen Personalressourcen"
+    ],
+    "answer": "Klärung der Projektgrenzen und des Leistungsinhalts"
+    },
+    {
+    "question": "Was ist eine Projektphase?",
+    "options": [
+        "ein Kostenträger im Projekt",
+        "ein Entscheidungsgremium",
+        "ein zeitlicher Abschnitt eines Projektablaufes",
+        "ein Meilenstein im Projekt"
+    ],
+    "answer": "ein zeitlicher Abschnitt eines Projektablaufes"
+    },
+    {
+    "question": "Wenn der Projektleiter den Einsatz seiner Ressourcen zu spät plant, muss er damit rechnen, dass, ….",
+    "options": [
+        "das Projektbudget nicht eingehalten werden kann",
+        "der geplante Endtermin unter keinen Umständen eingehalten werden kann",
+        "der Projektumfang reduziert werden muss",
+        "das gewünschte Personal in anderen Projekten gebunden ist"
+    ],
+    "answer": "das gewünschte Personal in anderen Projekten gebunden ist"
+    },
+    {
+    "question": "Was ist eine optimale Voraussetzung für den Start der Kostenplanung?",
+    "options": [
+        "Eine Vorgangsliste",
+        "Ein Projektplan",
+        "Ein Ressourcenplan",
+        "Eine Risikoanalyse"
+    ],
+    "answer": "Eine Vorgangsliste"
+    },
+    {
+    "question": "Nachfolgend sind wichtige Prozessschritte im Beschaffungsprozess aufgeführt. Nur drei der Wahlantworten treffen zu. Welche Wahlantwort gehört nicht zum Beschaffungsprozess?",
+    "options": [
+        "Projektanforderungen erarbeiten",
+        "Erforderliche externe Leistung identifizieren",
+        "Anforderungen an externe Leistungserbringer definieren",
+        "Vertragsart bestimmen"
+    ],
+    "answer": "Projektanforderungen erarbeiten"
+    },
+    {
+    "question": "Ein Change Request (CR) ist ein Antrag auf Änderung (Änderungsantrag) des im Projekt festgelegten Zielrahmens (Scope). Wir unterscheiden zwischen verschiedenen Change-Request-Arten; Scope-Change, Business-Change, Technical-Change, Claim). Eine Veränderung, die aus eingegangenen vertraglichen Vereinbarungen resultiert, welche eine Vertragspartei nicht einhalten kann, dann ist dies …",
+    "options": [
+        ".. ein Claim",
+        ".. ein Scope-Change",
+        ".. ein Business-Change",
+        ".. ein Technical-Change"
+    ],
+    "answer": ".. ein Claim"
+    },
+    {
+    "question": "Angenommen, Ihr Projekt dauert fünf Jahre, wie häufig sollte der Projektstatus erhoben werden?",
+    "options": [
+        "quartalsweise",
+        "wöchentlich",
+        "monatlich",
+        "14-tätig"
+    ],
+    "answer": "quartalsweise"
+    },
+    {
+        "question": "Was wird in einem Projektglossar erfasst?",
+        "options": [
+            "Bezeichnung des Projektes",
+            "Grundlegende Begriffe und Fachausdrücke",
+            "Projektauftrag und Projektziele",
+            "Allgemeine Informationen"
+        ],
+        "answer": "Grundlegende Begriffe und Fachausdrücke"
+    },
+    {
+        "question": "Schriftliche Informationen verfolgen im Projekt-Kontext im Wesentlichen drei Ziele! Eine der Wahlantworten gehört also nicht zu dieser Aussage. Welche?",
+        "options": [
+            "Menschen über etwas zu informieren, das sie für ihre Projektarbeit wissen müssen",
+            "Menschen dazu zu bewegen, etwas zu tun, das zu Projektresultaten führt",
+            "Menschen zu überzeugen, ihre Annahme bezüglich einer Projektsituation beizubehalten oder zu ändern",
+            "Menschen mit möglichst vielen Informationen zu beliefern"
+        ],
+        "answer": "Menschen mit möglichst vielen Informationen zu beliefern"
+    },
+    {
+        "question": "Welche Risiken sind mit dem Vorhaben (Projekt) verbunden? Welche Konsequenzen sind zu befürchten? In welchem Prozessschritt eines Projektes sollte diese Fragestellung diskutiert werden?",
+        "options": [
+            "Besprechung mit dem Auftraggeber",
+            "Phasenstart Konzeption",
+            "Kick-off Projektstart",
+            "Phasenende Projektinitialisierung"
+        ],
+        "answer": "Kick-off Projektstart"
+    },
+    {
+        "question": "Die Phase Projektabschluss gliedert sich in vier Prozessschritte. Welcher der vier Prozessschritte beinhaltet die Projektnachkalkulation?",
+        "options": [
+            "Prozessschritt Produktabnahme",
+            "Prozessschritt Projektschlussanalyse",
+            "Prozessschritt Erfahrungssicherung",
+            "Prozessschritt Projektauflösung"
+        ],
+        "answer": "Prozessschritt Projektschlussanalyse"
+    },
+       {
+        "question": "Nachfolgend sind drei Misserfolgsfaktoren in Projekten aufgeführt sowie ein Erfolgsfaktor. Bezeichnen Sie die Antwort, welche einen Erfolgsfaktor im Projekt bezeichnet.",
+        "options": [
+            "Wenig Akzeptanz des Projektes bei den Abteilungsleitern",
+            "Ausreichende Freistellung der Projektmitarbeiter",
+            "Verzögerung von Entscheiden",
+            "Befugnisse des Projektleiters sind zu gering"
+        ],
+        "answer": "Ausreichende Freistellung der Projektmitarbeiter"
+    },
+    {
+        "question": "Die Beziehungen zu den interessierten Parteien (Stakeholder) weist verschiedene Merkmale auf. Eine der vier Wahlantworten trifft nicht zu.",
+        "options": [
+            "Direkte Beteiligung am Projektprozess",
+            "Erfolgreiche Teamarbeit",
+            "Interesse und Erwartungen an das Projekt",
+            "Betroffenheit durch Ergebnisse des Projekts"
+        ],
+        "answer": "Erfolgreiche Teamarbeit"
+    },
+    {
+        "question": "Nachfolgend sind vier Ursachen für das Scheitern von Projekten aufgeführt. Welche Ursache ist die häufigste?",
+        "options": [
+            "Technische Anforderungen sind zu hoch",
+            "Unzureichendes Risikomanagement im Projekt",
+            "Schlechte Kommunikation",
+            "Wenig Teambildung im Projekt"
+        ],
+        "answer": "Schlechte Kommunikation"
+    },
+    {
+        "question": "Wenn das Risiko A eintritt, kann das Risiko B nicht mehr eintreten. Diese mögliche Beziehungen zwischen Risiken heisst;",
+        "options": [
+            "Risiken verstärken sich",
+            "Risiken bedingen sich",
+            "Risiken schliessen sich aus",
+            "Risiken häufen sich"
+        ],
+        "answer": "Risiken schliessen sich aus"
+    },
+    {
+        "question": "Qualitätssicherung ist Bestandteil des Qualitätsmanagements. Welche operative Tätigkeit/Massnahme gehört zur Qualitätssicherung im Projekt?",
+        "options": [
+            "Audit",
+            "Planung",
+            "Statusbericht",
+            "Kommunikationsplan"
+        ],
+        "answer": "Audit"
+    },
+    {
+        "question": "Die Wahl der Projektorganisation hängt von vielen Parametern ab, die je nach Unternehmen und Projekten unterschiedliche Bedeutung haben können. Welcher der aufgeführten Faktoren hat jedoch keinen Einfluss auf die Wahl der Projektorganisation?",
+        "options": [
+            "Projektleitung",
+            "Projektgrösse",
+            "Projektdauer",
+            "Verfügbare Ressourcen"
+        ],
+        "answer": "Projektleitung"
+    },
+    {
+        "question": "Wie können Teammeetings effektiv gestaltet werden? Wenn es …",
+        "options": [
+            ".. eine klare Zielsetzung für die Besprechung gibt",
+            ".. die relevanten Entscheidungsträger nicht teilnehmen",
+            ".. die Zwischenergebnisse nicht dokumentiert werden",
+            ".. klare Regeln für die Besprechung fehlen"
+        ],
+        "answer": ".. eine klare Zielsetzung für die Besprechung gibt"
+    },
+    {
+        "question": "Umgangssprachlich wird alles, was stört, als Problem bezeichnet. Probleme haben jedoch unterschiedliche Hintergründe; Abweichung, Risiko, Problem, Krise, Konflikt, Katastrophe. Welche der Wahlantworten beschreibt eine ‚Krise’?",
+        "options": [
+            ".. ist komplex und mit einer hohen emotionalen Betroffenheit der Beteiligten",
+            ".. ist immer real vorhanden und wird mit Sicherheit auftreten",
+            ".. es ist nicht sicher, dass es eintreten wird",
+            ".. bezeichnet eine Unvereinbarkeit, z.B. Meinungen, Fakten zwischen zwei oder mehreren Personen"
+        ],
+        "answer": ".. ist komplex und mit einer hohen emotionalen Betroffenheit der Beteiligten"
+    },
+    {
+        "question": "Was ist ein wichtiges Merkmal für ein Arbeitspaket?",
+        "options": [
+            "Es sollen immer mehrere Verantwortliche für das Arbeitspaket bezeichnet werden",
+            "Es soll übergreifend mehreren Organisationseinheiten zugeordnet werden",
+            "Es kann nur auf der obersten Gliederungsebene liegen",
+            "Es enthält eine abgeschlossene Leistung, die sich eindeutig abgrenzt gegen andere Arbeitspakete"
+        ],
+        "answer": "Es enthält eine abgeschlossene Leistung, die sich eindeutig abgrenzt gegen andere Arbeitspakete"
+    },
+    {
+        "question": "Lieferobjekte sind Ergebnisse, die im Projektverlauf erbracht werden. Sie werden z.B. nach ihrer Priorität eingeteilt. Welche Gruppe der Lieferobjekte ist am höchsten zu priorisieren?",
+        "options": [
+            "Kann-Lieferobjekte",
+            "Wäre Schön - Lieferobjekte",
+            "Muss-Lieferobjekte",
+            "Falls noch Zeit ist-Lieferobjekte"
+        ],
+        "answer": "Muss-Lieferobjekte"
+    },
+    {
+        "question": "Bei einem sequenziellen Vorgehensmodell …",
+        "options": [
+            "basieren die Projektphasen auf der Trennung der konstruktiven Aktivitäten",
+            "werden die verschiedenen Projektphasen entlang einer Zeitachse angeordnet",
+            "wird das Produkt in Form von Produktstufen entwickelt",
+            "wird mit kleinen Entwicklungsschritten ein möglichst exaktes Ergebnis angestrebt"
+        ],
+        "answer": "werden die verschiedenen Projektphasen entlang einer Zeitachse angeordnet"
+    },
+    {
+        "question": "Die Einsatzmittel im Projekt bestehen aus Betriebsmittel, Finanzmittel und Personalmittel. Welcher der aufgeführten Bestandteile gehört zur Gruppe Betriebsmittel?",
+        "options": [
+            "Testanlage",
+            "Externe Personalmittel",
+            "Interne Personalmittel",
+            "Geld"
+        ],
+        "answer": "Testanlage"
+    },
+    {
+        "question": "Im Kostenplan eines Projekts werden die Kosten auch nach Zeiteinheit aufgeteilt. Was heisst das?",
+        "options": [
+            "Die Projektkosten werden auf die Projektmonate aufgeteilt",
+            "Die Projektkosten werden den Leistungserbringern zugeordnet",
+            "Die Projektkosten werden den Meilensteinen zugeordnet",
+            "Die Projektkosten werden auf Sachmittel und Ressourcen aufgeteilt"
+        ],
+        "answer": "Die Projektkosten werden auf die Projektmonate aufgeteilt"
+    },
+    {
+        "question": "Jeder Entscheid, der im Beschaffungsprozess in einem Projekt gefällt wird, basiert auf Kriterien. Wie definiert sich ein ‚absolutes Muss-Kriterium’?",
+        "options": [
+            "Das Kriterium kann meistens mit ja beantwortet werden",
+            "Das Kriterium kann nur mit ja oder nein beantwortet werden",
+            "Das Kriterium ist nicht massgebend",
+            "Das Kriterium kann gewichtet werden"
+        ],
+        "answer": "Das Kriterium kann nur mit ja oder nein beantwortet werden"
+    },
+    {
+        "question": "Welche Änderung im Projekt hat kaum Einfluss auf die Projektkosten?",
+        "options": [
+            "Veränderung des im Projektauftrag festgelegten Projektumfangs",
+            "Veränderung der im Konzept für die Realisierung festgelegten Anforderungen der Linie (Business)",
+            "Veränderung der in der Phase Konzept für die Realisierung festgelegten technischen Anforderungen",
+            "Veränderungen im Projektteam"
+        ],
+        "answer": "Veränderungen im Projektteam"
+    },
+    {
+        "question": "Der Projektleiter erhebt monatlich die Daten für den Statusbericht. In Bezug auf eine Aussage zu den Terminen sollte er mindestens folgende Daten erheben.",
+        "options": [
+            "IST-Aufwand und voraussichtlicher Restaufwand",
+            "Ist-Fortschrittsgrad bzw. aktueller Fortschrittsgrad",
+            "Risikoentwicklung",
+            "Tatsächlicher Anfangstermin und der tatsächliche Endtermin"
+        ],
+        "answer": "Tatsächlicher Anfangstermin und der tatsächliche Endtermin"
+    },
+     {
+        "question": "Je nach Anlass in einem Projekt können die Zuhörer mit einer Präsentation zielgerichtet beeinflusst werden. Nachfolgend sind vier Möglichkeiten der Beeinflussung aufgeführt. Aber nur drei treffen zu. Welche nicht?",
+        "options": [
+            "das Wissen der Zielgruppe",
+            "das Verhalten der Zielgruppe",
+            "das Verständnis der Zielgruppe",
+            "das Können der Zielgruppe"
+        ],
+        "answer": "das Können der Zielgruppe"
+    },
+    {
+        "question": "Was ist eine besonders wichtige Form der Kommunikation im Projekt?",
+        "options": [
+            "Bilaterale Gespräche mit den Projektmitarbeitern",
+            "Versenden von Protokollen",
+            "Projektsitzungen und Workshops",
+            "Pausengespräche"
+        ],
+        "answer": "Projektsitzungen und Workshops"
+    },
+    {
+        "question": "Was ist ein typischer Anlass für ein Muss-Projekt?",
+        "options": [
+            "Gesetzliche Anforderungen (z.B. Währungsumstellung)",
+            "Kundenabwicklungsprozess funktioniert nicht optimal",
+            "Marktvorteil durch ein Qualitätsmanagementsystem",
+            "Kundenreklamationen nehmen zu"
+        ],
+        "answer": "Gesetzliche Anforderungen (z.B. Währungsumstellung)"
+    },
+    {
+        "question": "Beim Projektabschluss sind einige Formalitäten zu erledigen. Was ist im Bezug auf den Projektauftrag zu tun?",
+        "options": [
+            "Projektvertrag; Einhaltung durch die Vertragspartner prüfen",
+            "Einhaltung prüfen; offene Punkte identifizieren",
+            "Durchgeführte Änderungen und ihr Einfluss auf die Garantie prüfen",
+            "Garantieerklärung; Umfang, Zeitrahmen, Ansprechpartner"
+        ],
+        "answer": "Einhaltung prüfen; offene Punkte identifizieren"
+    }
+]
